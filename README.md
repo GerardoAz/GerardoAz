@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**GerardoAz/GerardoAz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Getting my Web Development Diploma
 - 🌱 I’m currently learning ... How to use Git
 - 👯 I’m looking to collaborate on ... Everything! If i can help with your project let me know!
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... gerardoacedoz97@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I have tried many sports in my lifetime and still cant decide which one i like the most.
--->
+
