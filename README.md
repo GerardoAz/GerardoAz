@@ -7,6 +7,8 @@ Hi there 👋
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GerardoAz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/GerardoAz/github-readme-stats)" />
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/luis-gerardo-acedo-zazueta-2b798118a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
