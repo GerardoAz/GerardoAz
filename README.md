@@ -9,4 +9,4 @@ Hi there 👋
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I have tried many sports in my lifetime and still cant decide which one i like the most.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GerardoAz&show_icons=true&hide_border=true&&count_private=true&
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GerardoAz&show_icons=true&hide_border=true&&count_private=true&/>
