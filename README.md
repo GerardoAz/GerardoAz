@@ -1,9 +1,9 @@
 Hi there 👋
 
-- 🔭 I’m currently working on ... Getting my Web Development Diploma
-- 👯 I’m looking to collaborate on ... Everything! If i can help with your project let me know!
-- 💬 Ask me about ... Sports, Tech and Videogames
-- 📫 How to reach me: ... gerardoacedoz97@gmail.com
+Im from Mexico, living in Vancouver, BC. Looking to start in the tech industry while i finish my Web Development Diploma
+Big fan of sports, tech and videogames!
+
+📫 How to reach me: gerardoacedoz97@gmail.com
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GerardoAz&theme=dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
