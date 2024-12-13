@@ -1,6 +1,6 @@
 Hi there 👋
 
-Im from Mexico, living in Vancouver, BC. Looking to start in the tech industry while i finish my Web Development Diploma
+Im from Mexico, just got my web developer diploma in Vancouver, BC. Looking to start in the tech industry.
 Big fan of sports, tech and videogames!
 
 📫 How to reach me: gerardoacedoz97@gmail.com
