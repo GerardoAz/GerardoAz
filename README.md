@@ -5,7 +5,7 @@ Hi there 👋
 - 💬 Ask me about ... Sports, Tech and Videogames
 - 📫 How to reach me: ... gerardoacedoz97@gmail.com
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GerardoAz&theme=dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://readme-typing-svg.demolab.com/demo/?font=&weight=900&size=29&lines=Gerardo+Acedo;Developer" />
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/luis-gerardo-acedo-zazueta-2b798118a/">
