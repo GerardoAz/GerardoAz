@@ -8,4 +8,4 @@
 </div>
 
 
-📫 How to reach me: gerardoacedoz97@gmail.c
+📫 How to reach me: gerardoacedoz97@gmail.com
